@@ -87,6 +87,9 @@ This project annotates a bacterial genome using Prokka, performs basic analyses 
 3. Run pipeline
    ```
    nextflow run complete.nf -profile conda,cluster
+
+   ** please update your cluster in the nextflow.config if it isn't sge **
+   ** this can also be run locally **
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
