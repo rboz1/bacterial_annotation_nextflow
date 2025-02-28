@@ -82,7 +82,7 @@ This project annotates a bacterial genome using Prokka, performs basic analyses 
    git clone https://github.com/rboz1/bacterial_annotation_nextflow.git
 2. Create and activate conda environment 
    ```
-   conda env create -f nextflow_base.yml
+   conda env create -f base_env.yml
    conda activate nextflow_base
 3. Run pipeline
    ```
