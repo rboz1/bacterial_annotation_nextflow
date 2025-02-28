@@ -72,6 +72,8 @@ This project annotates a bacterial genome using Prokka, performs basic analyses 
 
 ### Prerequisites
 * python
+* nextflow
+* conda
 
 ### Installation
 
