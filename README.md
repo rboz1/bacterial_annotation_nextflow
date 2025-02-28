@@ -86,7 +86,7 @@ This project annotates a bacterial genome using Prokka, performs basic analyses 
    conda activate nextflow_base
 3. Run pipeline
    ```
-   nextflow run complete.nf
+   nextflow run complete.nf -profile conda,cluster
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
